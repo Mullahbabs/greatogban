@@ -594,6 +594,7 @@ button:focus {
 .single-service {
     background-color: #fff;
     padding: 15px;
+    box-sizing: border-box;
     border: 1px solid #ffc900;
     -webkit-transition: .3s;
     transition: .3s;
